@@ -1,0 +1,176 @@
+{
+    "locales": {
+        "en": {
+            "title": "Awards",
+            "title_menu": "Certifications",
+            "title_long_prefix": "Here are my",
+            "title_long": "**Certifications**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "certifications",
+            "component": "ArticleCards",
+            "config": {},
+            "locales": {
+                "en": { "title": "Certificates" }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-microsoft",
+                        "faColors": {"bg": "#737373", "fill": "#F25022"}
+                    },
+                    "dates": {
+                        "start": "08/03/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.linkedin.com/learning/certificates/17dbce1c5a0cb1f92b3db4280f9f8aae9d1ac128df23772b376a5275fdb3a812?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B54S6gjNjTXedXoEoonDxPg%3D%3D" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Career Essentials in **Generative AI**",
+                            "text": "Certified Microsoft and LinkedIn"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-linkedin",
+                        "faColors": {"bg": "#0077B5", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "08/03/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.linkedin.com/learning/certificates/17dbce1c5a0cb1f92b3db4280f9f8aae9d1ac128df23772b376a5275fdb3a812?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B54S6gjNjTXedXoEoonDxPg%3D%3D" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Artificial Intelligence**",
+                            "text": "Certified Microsoft and LinkedIn"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-university",
+                        "faColors": {"bg": "#004682", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "08/03/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://www.linkedin.com/posts/mohamed-faskath-18a585287_hi-alli-have-successfully-completed-the-activity-7156279010467995648-q5Ts?utm_source=share&utm_medium=member_desktop" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Web Devolopment**",
+                            "text": "Certified  university of moratuwa"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-pencil-ruler",
+                        "faColors": {"bg":  "#FF6F61", "fill": "#FFF"}
+                    },
+                    "dates": {
+                        "start": "08/03/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_certification", "href": "https://verify.mygreatlearning.com/verify/SHFGIWKN" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**UI/UX** ",
+                            "text": "Certified Great Learning Academy"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "awards",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "More" }
+            },
+
+            "items": [
+                {
+                    "dates": {
+                        "start": "09/01/2019",
+                        "end": null
+                    },
+                    "links": [{"href":"https://www.linkedin.com/posts/mohamed-faskath-18a585287_hi-alli-have-successfully-completed-the-activity-7156279010467995648-q5Ts?utm_source=share&utm_medium=member_desktop"}],
+                    "locales": {
+                        "en": {
+                            "title": "**Frontend Development**",
+                            "info": "Open UOM & CODL",
+                            "text": "Skilled in building responsive and interactive user interfaces, ensuring seamless user experiences across all devices."
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "05/01/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "https://verify.mygreatlearning.com/verify/RQUBGFCT" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**Principles of Management**",
+                            "info": "Great Learning",
+                            "text": "I have successfully completed the **Principles of Management** course offered by Great Learning Academy. "
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "11/01/2021",
+                        "end": null
+                    },
+                    "links": [{"href":"https://verify.mygreatlearning.com/verify/NHZTFLBA"}],
+                    "locales": {
+                        "en": {
+                            "title": "**Data Structures in C **",
+                            "info": "Great Learning",
+                            "text":"I have successfully completed the **Data Structures in C** course offered by Great Learning Academy. "
+                        }
+                    }
+                },
+                {
+                    "dates": {
+                        "start": "06/01/2023",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "more_info", "href": "https://verify.mygreatlearning.com/verify/WGQMTPUB" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "**React JS Tutoria**",
+                            "info": "Great Learning",
+                            "text": "I have successfully completed the **React JS Tutorial** course offered by Great Learning Academy." 
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

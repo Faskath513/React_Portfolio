@@ -1,0 +1,169 @@
+{
+    "locales": {
+        "en": {
+            "title": "Portfolio",
+            "title_long_prefix": "Take a look at",
+            "title_long": "My **Portfolio**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "portfolio",
+            "component": "ArticlePortfolio",
+            "config": {},
+            "locales": {},
+
+            "categories": [
+                {
+                    "id": "apps",
+                    "locales": {
+                        "en": {"singular": "App", "plural": "Apps"}
+                    }
+                },
+                {
+                    "id": "websites",
+                    "locales": {
+                        "en": {"singular": "Website", "plural": "Web"}
+                    }
+                },
+                {
+                    "id": "utilities",
+                    "locales": {
+                        "en": {"singular": "Utility", "plural": "Utilities"}
+                    }
+                }
+            ],
+
+            "items": [
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/Screenshot 2024-11-11 at 18.55.34.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Faskath513/JobResumeAnalyzer.git"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "JobResume Analyzer",
+                            "text": "A <b>RESTful API</b> backend built with <b>Django</b>, designed for high-performance data processing and real-time event handling.",
+                            "tags": ["API", "REST", "Backend","Python","Django"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/Screenshot 2024-11-11 at 19.47.00.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Faskath513/Task_managment.git"}
+                    ],
+
+                   
+                    "locales": {
+                        "en": {
+                            "title": "Task Management System",
+                            "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
+                            "tags": ["Flutter", "Django", "Backend"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/nexus.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Faskath513"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "NexusIT website",
+                            "text": "A fully-featured productivity web developed with <b>Bootstrap</b>, enabling users to organize tasks, notes, and projects across multiple devices. It offers <b>cloud sync</b>, intuitive UI, and collaboration features.",
+                            "tags": ["Bootstrap", "Organization", "HTML","CSS"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/avatar.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://faskath513.github.io/Portfolio/"}
+                    ],
+
+
+                    "locales": {
+                        "en": {
+                            "title": "Portfolio",
+                            "text": "A portfolio website built using <b>Bootstrap</b>, allowing users to <b>track budgets</b> and manage their money with interactive charts and insights.",
+                            "tags": ["CSS", "Bootstrap", "HTML","React","Vite"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "",
+                        "fa": "fa-solid fa-coffee",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Faskath513/Bus-Reservation-System.git"}
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Bus Reservation System",
+                            "text": "A powerful System designed with <b>Bus Reservation System</b> for Android and iOS, featuring <b>advanced  controls</b>, editing tools, and AI-powered filters for quick photo enhancements.",
+                            "tags": ["Java", "Flutter"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/project-screenshot-6.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/Faskath513/Face-Recognition-Attendance-System-for-Employees-using-Python.git"}
+                    ],
+
+                    "locales": {
+                        "en": {
+                            "title": "Face Recogniton System",
+                            "text": "A Face Recogniton System built with <b>Python</b> and OpenCV",
+                            "tags": ["Python", "OpenCV"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
