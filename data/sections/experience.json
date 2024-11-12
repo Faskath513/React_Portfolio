@@ -35,7 +35,7 @@
                 },
                 {
                     "icon": {
-                        "img": "public/images/pictures/KinniTec Logo-09.png",
+                        "img": "images/pictures/KinniTec Logo-09.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -54,7 +54,7 @@
                 },
                 {
                     "icon": {
-                        "img": "public/images/pictures/mora.png",
+                        "img": "images/pictures/mora.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
