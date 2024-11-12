@@ -6,7 +6,7 @@
 
 A sleek, futuristic portfolio template for developers – built with **React** and **Bootstrap 5**.
 
-![alt tag1](readme-assets/promo.png)
+
 
 Key features:
 - Lightweight and fully responsive.
@@ -180,17 +180,7 @@ For translations specific to sections, you can create a custom `locales` field i
 
 ```json
 {
-    "locales": {
-        "en": {
-            "hello": "Hello!",
-            "age": "Age"
-        },
-        
-        "es": {
-            "hello": "Hola!",
-            "age": "Edad"
-        }
-    }
+    
 }
 ```
 
@@ -246,23 +236,11 @@ export default defineConfig({
 })
 ```
 
-In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://ryanbalieiro.github.io/react-portfolio-template/`, the correct base directory to set is `/react-portfolio-template/`.
-
-If you're deploying to Netlify or your own custom domain where your website is located at the root, you can leave the `base` setting as `'/'`.
-
-To compile your project for production, execute:
 
 ```
 npm run build
 ``` 
 
-This command triggers a series of processes that package your code, assets, and other necessary files, ultimately creating a production-ready version of your project. After running the command, you'll find the compiled files within the `dist` folder. 
-
-## About
-
-This template was created by and is maintained by **[Ryan Balieiro](https://ryanbalieiro.com/)**.
-
-It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by Mark Otto and Jacob Thorton.
 
 Additional frameworks and plugins used include:
 - **Font Awesome**: A library of free vector icons.
