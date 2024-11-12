@@ -1,0 +1,159 @@
+{
+    "locales": {
+        "en": {
+            "title": "Life recently",
+            "title_menu": "Updates",
+            "title_long_prefix": "Take a look at my",
+            "title_long": "Recent **Updates**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "fun_facts",
+            "component": "ArticleServices",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-tablet-screen-button",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "03",
+                            "info": "Apps published"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-star",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "10 to 100",
+                            "info": "Stars on GitHub"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-globe",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "05",
+                            "info": "Current Projects"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-diagram-project",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "07",
+                            "info": "Open-source projects"
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-coffee",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "20,000",
+                            "info": "Coffees consumed"
+                        }
+                    }
+                }
+
+            ]
+        },
+
+        {
+            "id": "updates",
+            "component": "ArticleThread",
+            "config": {},
+            "locales": {
+                "en": { "title": "Quick **Facts**" }
+            },
+
+            "items": [
+                {
+                    "dates": {
+                        "start": "09/01/2022",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Currently Working at **Kinnitek!**",
+                            "text":"Joined Kinnitek as a  Software Engineer, focusing on leading the development of scalable and high-performance backend systems. Spearheading the design and implementation of robust architectures, optimizing code for efficiency, and mentoring junior developers to drive innovation and deliver impactful solutions in a fast-paced, dynamic environment."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "05/12/2024",
+                        "end": null
+                    },
+                    "links": [
+                        {"string": "see_more", "href": "https://github.com/Faskath513"}
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Started my own **Machine Learning Projects**!",
+                            "text": "Developed and deployed a Machine Learning project utilizing advanced algorithms and models to solve real-world problems. The project involved data preprocessing, feature engineering, model training, and evaluation, delivering accurate predictions and insights to drive decision-making."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "11/05/2024",
+                        "end": null
+                    },
+                    "links": [],
+                    "locales": {
+                        "en": {
+                            "title": "Working on a new **django project**!",
+                            "text": "Currently developing a multi tenant website that integrates innovative features and user-friendly design, aimed at enhancing user experience and addressing specific market needs."
+                        }
+                    }
+                },
+
+                {
+                    "dates": {
+                        "start": "09/12/2024",
+                        "end": null
+                    },
+                    "links": [
+                        { "string": "see_more", "href": "https://faskath513.github.io/Portfolio/" }
+                    ],
+                    "locales": {
+                        "en": {
+                            "title": "Launched my **personal website**!",
+                            "text": "Created a personal website to showcase my projects, share my journey in programming, and provide resources for fellow developers."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
