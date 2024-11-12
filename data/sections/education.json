@@ -1,0 +1,97 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** Background"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "public/images/pictures/mora.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "05/12/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**BSc(Hons)** in Information Technology",
+                            "info": "University of Moratuwa",
+                            "text": "Earned a BSc(Hons) degree in Information Technology, focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects and boot camps.",
+                            "tags": ["Web Development","AI Research","Algorithms","Deep Learning","App Development"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "public/images/pictures/kcc.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "09/01/2018",
+                        "end": "06/01/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Advanced Level**  in Physical Science",
+                            "info": "Kinniya Central Collage",
+                            "text": "<p>Completed a Advanced Level  in Physical Science ",
+                            "tags": ["Combained Maths","Algorithms","Physics","Chemistry"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "public/images/pictures/project-logo-8.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2020",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Web Development**",
+                            "info": "Self Learning",
+                            "text": "Gained hands-on experience in web development through a comprehensive self-study program focused on building dynamic, full-stack applications. Developed proficiency in Python and Django for backend development, including API design and integration with tools like Postman. Additionally, learned frontend skills with React, enabling seamless, responsive user experiences.",
+                            "tags": ["Python", "Django", "Rest API","Postman","React"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "public/images/pictures/images-2.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "01/01/2023",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Python** ",
+                            "info": "Great Learning",
+                            "text": "<p>Currently pursuing a PhD with a focus on deep learning and its real-world applications, particularly in:</p> <ul><li>Computer Vision</li><li>Innovative AI research</li><li>Developing novel algorithms for image recognition</li></ul> <p class='mt-3'>Engaged in cutting-edge research and contributing to AI advancement through publications in top-tier conferences.</p>",
+                            "tags": ["Deep Learning", "Computer Vision", "AI Research", "Algorithms"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

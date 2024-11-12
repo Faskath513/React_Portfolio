@@ -1,0 +1,272 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Mohamed Faskath!**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {},
+                "es": {},
+                "fr": {},
+                "ko": {}
+            },
+
+            "items": [
+                {
+                    "value": "SE @ kinnitek",
+                    "links": [
+                        {"href": "www.kinnitek.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-city",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "faskath2001@gmail.com",
+                    "links": [
+                        {"href": "https://faskath513.github.io/Portfolio/"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "Faskath513",
+                    "links": [
+                        {"href": "https://faskath513.github.io/Portfolio/"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {"title": "**A little bit** about me..."}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "public/images/svg/faskath.JPG",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"text": "I am currently pursuing my BSc Hons in Information Technology at the **University of Moratuwa**, while also working as a Software Engineer at **Kinnitek**. <br><br>My role at Kinnitek involves developing and maintaining backend systems using Python and Django, focusing on creating scalable, efficient solutions.<br><br> I am passionate about applying my academic knowledge to real-world projects, continuously learning and growing in the field of software development and machine learning."}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "testimonials",
+            "component": "ArticleTestimonials",
+            "config": {},
+            "locales": {
+                "en": {"title": " **My Services**"}
+            },
+
+            "items": [
+                {
+                    "value": "Backend Development",
+                    "links": [
+                        {"href": ""}
+                    ],
+                    "icon": {
+                        "img": "public/images/pictures/dg.png",
+                        "fa": "fa-solid fa-user",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Development using <b>Djngo</b>",
+                            "text": "Our backend development service leverages Django to build scalable, secure, and high-performance applications. We specialize in creating RESTful APIs, managing complex data workflows, and optimizing database efficiency to support seamless, dynamic experiences for users, tailored to your business needs."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Machine Learning Project",
+                    "links": [
+                        {"href": ""}
+                    ],
+                    "icon": {
+                        "img": "public/images/pictures/ml.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Development using <b>Hugging Face and Python</b>",
+                            "text": "Our ML development service helps businesses unlock data-driven insights with custom machine learning models. We handle everything from data processing to model deployment, enabling predictive analytics and automation to drive smarter decisions and innovation."
+                        }
+                    }
+                },
+
+                {
+                    "value": "Frontend Development",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": "public/images/pictures/react.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Development using <b>React/b>",
+                            "text": "Our frontend development service leverages React to build dynamic, responsive, and user-friendly interfaces. We create seamless, high-performance web applications focused on user experience, ensuring efficient interactions and intuitive design across all devices."
+                        }
+                    }
+                },
+
+                {
+                    "value": "App Development",
+                    "links": [
+                        {"href": ""}
+                    ],
+                    "icon": {
+                        "img": "public/images/pictures/png-transparent-flutter-hd-logo.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Development using <b>Flutter</b>",
+                            "text": "Our Flutter development service creates cross-platform mobile applications that are both visually engaging and highly performant. We deliver smooth, responsive UIs and seamless functionality across iOS and Android, ensuring a consistent and immersive experience for your users, all from a single codebase."
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Personal **interests**"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-laptop-code",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Web Development",
+                            "info": "Exploring different genres and improving my skills."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-video",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "AI development",
+                            "info": "Learning to use AI tools to enhance my videos."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-brain",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Machine Learning",
+                            "info": "I’m interested in using machine learning to extract insights and build data-driven solutions."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-react",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Frontend Development",
+                            "info": "I focus on creating interactive, responsive, and visually appealing user interfaces."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-pencil-alt",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "UX design",
+                            "info": "Studying user experience principles."
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-camera-retro",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "App Design:",
+                            "info": "I love designing user-friendly and visually engaging app interfaces."
+                        }
+                        
+                    }
+                }
+            ]
+        }
+    ]
+}

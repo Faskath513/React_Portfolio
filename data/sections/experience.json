@@ -1,0 +1,96 @@
+{
+    "locales": {
+        "en": {
+            "title": "Experience",
+            "title_long_prefix": "Summary of my",
+            "title_long": "**Work** Experience"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "work",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-python",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "09/03/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Backend** Developer",
+                            "info": "",
+                            "text": "Developed and maintained scalable backend systems using Python and Django for various clients, optimizing database performance and implementing RESTful APIs to enhance application functionality.",
+                            "tags": ["Django", "PostgreSQL", "REST APIs","Postman","Python"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "public/images/pictures/KinniTec Logo-09.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "09/01/2024",
+                        "end": null
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Software** Engineer",
+                            "info": "Kinnitek",
+                            "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing backend technologies to ensure seamless functionality.",
+                            "tags": [ "Django", "REST", "Docker","Postman","PostgreSQL","REST APIs","Python"]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "public/images/pictures/mora.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "12/01/2020",
+                        "end": "11/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Automated Medicine Dispenser**",
+                            "info": "University",
+                            "text": " This innovative device is designed to manage and dispense medications accurately and efficiently. It features a user-friendly interface to set medication times, monitor temperature, and ensure the correct dosage is taken, helping users maintain their medication schedule effortlessly.",  
+                            "tags": ["IoT", "C++", "Arduino", ""]
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-apple",
+                        "faColors": {"bg": "#111", "fill": "#EEE"}
+                    },
+                    "dates": {
+                        "start": "12/01/2022",
+                        "end": "now"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Web Application** Developer",
+                            "info": ["Portfolio","JobResume Analyzer","Task Managemnt System"],
+                            "text": "<p>Overseeing a dedicated team of developers in designing and implementing secure and scalable backend solutions. Key responsibilities include:</p> <ul><li>Enhancing security and data integrity</li><li>Ensuring systems can scale to support millions of users</li><li>Developing robust REST APIs,Django</li><li>Optimizing performance and reliability with PostgreSQL</li><li>Building and maintaining services with HTML,JavaScript,Bootstrap,React and CSS</li></ul> </p>",
+                            "tags": ["React","HTML5","CSS","Bootsrap","JavaScript"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
