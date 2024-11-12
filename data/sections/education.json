@@ -17,7 +17,7 @@
             "items": [
                 {
                     "icon": {
-                        "img": "public/images/pictures/mora.png",
+                        "img": "images/pictures/mora.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -35,7 +35,7 @@
                 },
                 {
                     "icon": {
-                        "img": "public/images/pictures/kcc.png",
+                        "img": "images/pictures/kcc.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -55,7 +55,7 @@
 
                 {
                     "icon": {
-                        "img": "public/images/pictures/project-logo-8.png",
+                        "img": "images/pictures/project-logo-8.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -74,7 +74,7 @@
                 },
                 {
                     "icon": {
-                        "img": "public/images/pictures/images-2.png",
+                        "img": "images/pictures/images-2.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
