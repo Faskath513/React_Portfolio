@@ -60,7 +60,7 @@
                 {
                     "categoryId": "apps",
                     "icon": {
-                        "img": "images/pictures/Screenshot 2024-11-11 at 19.47.00.png",
+                        "img": "public/images/pictures/Screenshot 2024-11-11 at 19.47.00.png",
                         "fa": null,
                         "faColors": {"bg": null, "fill": null}
                     },

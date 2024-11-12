@@ -55,7 +55,7 @@
 
                 {
                     "icon": {
-                        "img": "images/pictures/project-logo-8.png",
+                        "img": "public/images/pictures/project-logo-8.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
