@@ -71,7 +71,7 @@
             "items": [
                 {
                     "icon": {
-                        "img": "public/images/svg/faskath.JPG",
+                        "img": "images/svg/faskath.JPG",
                         "fa": null,
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -97,7 +97,7 @@
                         {"href": ""}
                     ],
                     "icon": {
-                        "img": "public/images/pictures/dg.png",
+                        "img": "images/pictures/dg.png",
                         "fa": "fa-solid fa-user",
                         "faColors": null
                     },
@@ -115,7 +115,7 @@
                         {"href": ""}
                     ],
                     "icon": {
-                        "img": "public/images/pictures/ml.png",
+                        "img": "images/pictures/ml.png",
                         "fa": null,
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -133,7 +133,7 @@
                         {"href": null}
                     ],
                     "icon": {
-                        "img": "public/images/pictures/react.png",
+                        "img": "images/pictures/react.png",
                         "fa": null,
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -151,7 +151,7 @@
                         {"href": ""}
                     ],
                     "icon": {
-                        "img": "public/images/pictures/png-transparent-flutter-hd-logo.png",
+                        "img": "images/pictures/png-transparent-flutter-hd-logo.png",
                         "fa": null,
                         "faColors": {"bg": null, "fill": null}
                     },
